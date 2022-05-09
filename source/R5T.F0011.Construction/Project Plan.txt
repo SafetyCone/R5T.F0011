@@ -1,0 +1,3 @@
+R5T.F0011.Construction - Construction project for Add-simple, with annotation functionality for Roslyn syntax values..
+
+GOALS:
