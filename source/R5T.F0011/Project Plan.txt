@@ -1,3 +1,8 @@
-R5T.F0011 - Add-simple, with annotation functionality for Roslyn syntax values.
+R5T.F0011 - Add-simple, with annotation functionality for Roslyn syntax elements.
 
-GOALS:
+
+Allowed Dependencies:
+
+* R5T.L0011 - Microsoft.CodeAnalysis (Roslyn) library Nuget package version selector.
+* R5T.T0132 - FunctionalityMarker attribute and interface.
+* R5T.X0009 - Extensions to Roslyn syntax elements that require simple, initial, generation.
